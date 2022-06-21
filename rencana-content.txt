@@ -1,4 +1,6 @@
 RENCANA KONTEN
 - Rencana Buat PHP Framework
+  * EasyUI
+  * KoolPHP
 - Interview
 - Vlog
