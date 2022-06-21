@@ -2,6 +2,8 @@ RENCANA KONTEN
 - Rencana Buat PHP Framework
   * EasyUI
   * KoolPHP
+  * Laravel
 - Interview
+- Phyton
 - Fundamental Data Structure
 - Vlog
